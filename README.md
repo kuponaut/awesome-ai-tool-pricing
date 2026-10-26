@@ -6,7 +6,7 @@ Maintained by [Kuponaut](https://kuponaut.com/), an English/Turkish site that do
 
 - Edition: **October 2026** (compiled 2026-10-15); each row also carries the date its record was last checked.
 - 112 tools have a free plan, 67 state a trial length, 23 have an official student or education price.
-- Files: [`data/ai-tool-pricing.csv`](data/ai-tool-pricing.csv) and [`data/ai-tool-pricing.json`](data/ai-tool-pricing.json).
+- Files: [`ai-tool-pricing.csv`](ai-tool-pricing.csv) and [`ai-tool-pricing.json`](ai-tool-pricing.json).
 - License: [CC BY 4.0](LICENSE). Reuse freely; credit "Kuponaut (kuponaut.com)".
 
 ## What is (and is not) in here
