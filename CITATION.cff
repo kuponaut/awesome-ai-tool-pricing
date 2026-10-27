@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset or report, please cite it as below."
+title: "Free Plans, Trials and Entry Prices of 257 AI and SaaS Tools: A Dated Snapshot from Official Vendor Pages (October 2026)"
+authors:
+  - family-names: Papatya
+    given-names: Fırat
+    affiliation: Kuponaut
+date-released: 2026-10-26
+version: "1.0"
+doi: 10.5281/zenodo.23667746
+license: CC-BY-4.0
+repository-code: https://github.com/kuponaut/awesome-ai-tool-pricing
+url: https://kuponaut.com/ai-tool-price-index/

@@ -1,5 +1,7 @@
 # AI & SaaS tool pricing dataset (October 2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23667746.svg)](https://doi.org/10.5281/zenodo.23667746) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+
 **257 AI and SaaS tools: free plan, trial length, cheapest paid plan, student/education pricing and refund rule, read from each vendor's official pricing, help and terms pages, with the date of each record.**
 
 Maintained by [Kuponaut](https://kuponaut.com/), an English/Turkish site that documents AI-tool pricing and the discounts vendors actually offer. This repository is the open-data mirror of the tables on [kuponaut.com/ai-tool-price-index](https://kuponaut.com/ai-tool-price-index/), [ai-tools-with-free-plans](https://kuponaut.com/ai-tools-with-free-plans/), [ai-tools-free-trials](https://kuponaut.com/ai-tools-free-trials/) and [ai-tools-student-discounts](https://kuponaut.com/ai-tools-student-discounts/).
@@ -8,6 +10,7 @@ Maintained by [Kuponaut](https://kuponaut.com/), an English/Turkish site that do
 - 112 tools have a free plan, 67 state a trial length, 23 have an official student or education price.
 - Files: [`ai-tool-pricing.csv`](ai-tool-pricing.csv) and [`ai-tool-pricing.json`](ai-tool-pricing.json).
 - License: [CC BY 4.0](LICENSE). Reuse freely; credit "Kuponaut (kuponaut.com)".
+- Report: [Free Plans, Trials and Entry Prices of 257 AI and SaaS Tools (October 2026)](https://doi.org/10.5281/zenodo.23667746), a 6-page summary of this dataset with charts, archived on Zenodo with DOI 10.5281/zenodo.23667746.
 
 ## What is (and is not) in here
 
@@ -404,4 +407,22 @@ Open an issue with the tool name, the official page URL and what changed (price,
 
 ## Citation
 
-> Kuponaut (2026). *AI & SaaS tool pricing dataset, October 2026 edition.* https://kuponaut.com/ai-tool-price-index/ (CC BY 4.0).
+> Papatya, F. (2026). *Free Plans, Trials and Entry Prices of 257 AI and SaaS Tools: A Dated Snapshot from Official Vendor Pages (October 2026).* Kuponaut. Zenodo. https://doi.org/10.5281/zenodo.23667746 (CC BY 4.0)
+
+Dataset only:
+
+> Kuponaut (2026). *AI & SaaS tool pricing dataset, October 2026 edition.* https://github.com/kuponaut/awesome-ai-tool-pricing (CC BY 4.0).
+
+BibTeX:
+
+```bibtex
+@techreport{papatya2026aipricing,
+  author    = {Papatya, Fırat},
+  title     = {Free Plans, Trials and Entry Prices of 257 AI and SaaS Tools: A Dated Snapshot from Official Vendor Pages (October 2026)},
+  institution = {Kuponaut},
+  year      = {2026},
+  month     = {10},
+  doi       = {10.5281/zenodo.23667746},
+  url       = {https://doi.org/10.5281/zenodo.23667746}
+}
+```
